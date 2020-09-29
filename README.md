@@ -1,18 +1,18 @@
-# Acerca de gabi_bro_
+# About gabi_bro_
 
-Mi nombre es gabriel, me dedico a la creacion de bots en discord y aprendiendo nuevas experiencias 🍞
+My name is Gabriel, I dedicate myself to creating Discord bots and learning new experiences 🍞
 
-Me encuentro trabajando en un nuevo bot: Amoung Bot
+I am working on a new bot: Amoung Bot
 
-# Proyectos
+# Proyects (Lats update: 29/9/2020)
 
-| **Nombre** | **Tipo** | **Descripcion** | **URL** |
+| **Name** | **Type** | **Descripcion** | **URL** |
 |------------|----------|-----------------|---------|
-| MyOrg | Peticion de datos con cliente discord | Plantilla de cliente de discord para la comunidad [UN Player](https://unplayer.com) | [Click aqui 🍞](https://github.com/gabibro/myorg)
+| MyOrg | Data request with discord client | Discord client template for UN Player community [UN Player](https://unplayer.com) | [Click here 🍞](https://github.com/gabibro/myorg)
 
-# Redes sociales donde se socializa
+# My social networks
 
-**Correo Electronico:** [lolopepexd9@gmail.com](mailto:lolopepexd9@gmail.com)
+**Email:** [lolopepexd9@gmail.com](mailto:lolopepexd9@gmail.com)
 
 **Twitter:** [@gabi_bro_](https://twitter.com/gabi_bro_)
 
