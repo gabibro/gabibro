@@ -9,6 +9,7 @@ I am working on a new bot: Amoung Bot
 | **Name** | **Type** | **Description** | **URL** |
 |------------|----------|-----------------|---------|
 | MyOrg | Data request with discord client | Discord client template for [UN Player](https://unplayer.com) community | [Click here 🍞](https://github.com/gabibro/myorg)
+| MyPedi (private) | Discord customer to order online | Discord application, in charge of sending objects, among others | [Click here 🍞](https://github.com/gabibro/MyPedi)
 
 # My social networks
 
