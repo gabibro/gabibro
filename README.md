@@ -6,7 +6,7 @@ I am working on a new bot: Amoung Bot
 
 # Proyects (Lats update: 29/9/2020)
 
-| **Name** | **Type** | **Descripcion** | **URL** |
+| **Name** | **Type** | **Description** | **URL** |
 |------------|----------|-----------------|---------|
 | MyOrg | Data request with discord client | Discord client template for UN Player community [UN Player](https://unplayer.com) | [Click here 🍞](https://github.com/gabibro/myorg)
 
