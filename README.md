@@ -19,3 +19,7 @@ I am working on a new bot: Amoung Bot
 **Steam:** [gabi_bro](https://steamcommunity.com/id/gabi_bro/)
 
 **Discord:** gabi_bro_#9951 [(398360044845924353)](https://discord.com/users/398360044845924353)
+
+# Thanks for visiting!
+
+![get stick bugged lol](https://media.discordapp.net/attachments/699824003417767977/750798938986119188/744252793061113968.gif)
