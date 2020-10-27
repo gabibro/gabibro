@@ -2,7 +2,7 @@
 
 My name is Gabriel, I dedicate myself to creating Discord bots and learning new experiences 🍞
 
-I am working on a new bot: Amoung Bot
+I am currently not working on anything
 
 # Proyects (Lats update: 29/9/2020)
 
@@ -17,7 +17,7 @@ I am working on a new bot: Amoung Bot
 
 **Twitter:** [@gabi_bro_](https://twitter.com/gabi_bro_)
 
-**Steam:** [gabi_bro](https://steamcommunity.com/id/gabi_bro/)
+**Steam:** [gabi_bro_](https://steamcommunity.com/id/gabi_bro_/)
 
 **Discord:** gabi_bro_#9951 [(398360044845924353)](https://discord.com/users/398360044845924353)
 
