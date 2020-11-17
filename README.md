@@ -4,11 +4,11 @@ My name is Gabriel, I dedicate myself to creating Discord bots and learning new 
 
 I am currently not working on anything
 
-# Proyects (Lats update: 29/9/2020)
+# Proyects (Latest update: 17/11/2020)
 
 | **Name** | **Type** | **Description** | **URL** |
 |------------|----------|-----------------|---------|
-| MyOrg | Data request with discord client | Discord client template for [UN Player](https://unplayer.com) community | [Click here 🍞](https://github.com/gabibro/myorg)
+| MyOrg (cancelled) | Data request with discord client | Discord client template for [UN Player](https://unplayer.com) community | [Click here 🍞](https://github.com/gabibro/myorg)
 | MyPedi (private) | Discord customer to order online | Discord application, in charge of sending objects, among others | [Click here 🍞](https://github.com/gabibro/MyPedi)
 
 # My social networks
