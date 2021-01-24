@@ -4,23 +4,16 @@ My name is Gabriel, I dedicate myself to creating Discord bots and learning new 
 
 I am currently not working on anything
 
-# Proyects (Latest update: 17/11/2020)
-
-| **Name** | **Type** | **Description** | **URL** |
-|------------|----------|-----------------|---------|
-| MyOrg (cancelled) | Data request with discord client | Discord client template for [UN Player](https://unplayer.com) community | [Click here 🍞](https://github.com/gabibro/myorg)
-| MyPedi (private) | Discord customer to order online | Discord application, in charge of sending objects, among others | [Click here 🍞](https://github.com/gabibro/MyPedi)
+---
 
 # My social networks
 
-**Email:** [lolopepexd9@gmail.com](mailto:lolopepexd9@gmail.com)
+| **Email** | **Twitter** | **Steam** | **Discord** |
+|-----------|-------------|-----------|-------------|
+| [lolopepexd9@gmail.com](mailto:lolopepexd9@gmail.com) | [@gabi_bro_](https://twitter.com/gabi_bro_) | [gabi_bro_](https://steamcommunity.com/id/gabi_bro_/) | gabi_bro_#9951 [(398360044845924353)](https://discord.com/users/398360044845924353)
 
-**Twitter:** [@gabi_bro_](https://twitter.com/gabi_bro_)
-
-**Steam:** [gabi_bro_](https://steamcommunity.com/id/gabi_bro_/)
-
-**Discord:** gabi_bro_#9951 [(398360044845924353)](https://discord.com/users/398360044845924353)
+---
 
 # Thanks for visiting!
 
-![get stick bugged lol](https://media.discordapp.net/attachments/699824003417767977/750798938986119188/744252793061113968.gif)
+![get stick bugged lol](https://cdn.discordapp.com/attachments/617120220661678080/781213391133343744/image0.gif)
