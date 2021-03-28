@@ -1,7 +1,13 @@
 ---
 
-<h1 align="center">This is the gabi_bro's_ profile</h1>
+<h1 align="center">This is gabi_bro_'s profile</h1>
 
-<p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/617120220661678080/781213391133343744/image0.gif"></p>
+```text
+
+Hi, my name is Gabriel 🦦, I like bread and I make discord bots 🍞
+
+```
+
+<p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/741767399799521330/825541990492930098/doggo.gif"></p>
 
 ---
