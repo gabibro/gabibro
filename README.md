@@ -8,6 +8,6 @@ Hi, my name is Gabriel 🦦, I like bread and I make discord bots 🍞
 
 ```
 
-<p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/741767399799521330/825541990492930098/doggo.gif"></p>
+<p align="center"><img align="center" src="https://cdn.discordapp.com/emojis/819038652108767312.gif"></p>
 
 ---
